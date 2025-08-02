@@ -1,3 +1,2 @@
-Hi, I'm [Andres](https://andresroncal.com/). Architect/engineer turned developer. My work focuses on data and automation in the built environment. I like to work in Python, JavaScript, and Grasshopper, but I'm happy to use whatever tool is most suited for the task at hand.
+Hi, I'm Andres. Architect/engineer turned developer. My work focuses on data and automation in the built environment. I like to work in Python, JavaScript, and Grasshopper, but I'm happy to use whatever tool is most suited for the task at hand.
 
-I've recently been down a [rabbit hole](https://github.com/ronmaccms/threejs-games) with cv/dl looking to integrate opencv, three.js, and mediapipe on the web. And I do some stuff on the side when I have time. I am also interested in geometric rationalization, interoperability workflows, anything related to physics informed neural networks, and how we can build client-first interactive webapps.
